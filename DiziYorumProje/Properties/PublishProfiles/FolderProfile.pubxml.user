@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\14may\Desktop\WebSite</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin.Master">
+      <publishTime>05/13/2020 14:28:04</publishTime>
+    </File>
+    <File Include="AdminSayfalar/BlogGuncelle.aspx">
+      <publishTime>05/12/2020 11:20:17</publishTime>
+    </File>
+    <File Include="AdminSayfalar/Bloglar.aspx">
+      <publishTime>05/12/2020 10:47:17</publishTime>
+    </File>
+    <File Include="AdminSayfalar/BlogSil.aspx">
+      <publishTime>05/11/2020 18:16:34</publishTime>
+    </File>
+    <File Include="AdminSayfalar/istatistik.aspx">
+      <publishTime>05/13/2020 14:23:51</publishTime>
+    </File>
+    <File Include="AdminSayfalar/YeniBlog.aspx">
+      <publishTime>05/11/2020 17:40:48</publishTime>
+    </File>
+    <File Include="AdminSayfalar/YorumGuncelle.aspx">
+      <publishTime>05/12/2020 13:32:44</publishTime>
+    </File>
+    <File Include="AdminSayfalar/Yorumlar.aspx">
+      <publishTime>05/12/2020 12:54:27</publishTime>
+    </File>
+    <File Include="AdminSayfalar/YorumSil.aspx">
+      <publishTime>05/12/2020 13:11:57</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Data.v18.2.resources.dll">
+      <publishTime>02/17/2019 18:37:58</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Office.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:39:37</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Pdf.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:39:37</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Printing.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:39:38</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.RichEdit.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:40:04</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Web.v18.2.resources.dll">
+      <publishTime>02/17/2019 18:37:15</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Data.v18.2.dll">
+      <publishTime>02/17/2019 18:37:58</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Images.v18.2.dll">
+      <publishTime>02/17/2019 18:38:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Office.v18.2.Core.dll">
+      <publishTime>02/17/2019 18:39:37</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Pdf.v18.2.Core.dll">
+      <publishTime>02/17/2019 18:39:37</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Printing.v18.2.Core.dll">
+      <publishTime>02/17/2019 18:39:38</publishTime>
+    </File>
+    <File Include="bin/DevExpress.RichEdit.v18.2.Core.dll">
+      <publishTime>02/17/2019 18:40:04</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.v18.2.dll">
+      <publishTime>02/17/2019 18:37:15</publishTime>
+    </File>
+    <File Include="bin/DiziYorumProje.dll">
+      <publishTime>05/19/2020 19:20:11</publishTime>
+    </File>
+    <File Include="bin/DiziYorumProje.pdb">
+      <publishTime>05/19/2020 19:20:11</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>06/07/2018 11:03:48</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>06/07/2018 11:03:48</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Data.v18.2.resources.dll">
+      <publishTime>02/17/2019 18:37:58</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Office.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:39:37</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Pdf.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:39:37</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Printing.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:39:38</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.RichEdit.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:40:04</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Web.v18.2.resources.dll">
+      <publishTime>02/17/2019 18:37:15</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Data.v18.2.resources.dll">
+      <publishTime>02/17/2019 18:37:58</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Office.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:39:37</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Pdf.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:39:37</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Printing.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:39:38</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.RichEdit.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:40:04</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Web.v18.2.resources.dll">
+      <publishTime>02/17/2019 18:37:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Data.v18.2.resources.dll">
+      <publishTime>02/17/2019 18:37:58</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Office.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:39:37</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Pdf.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:39:37</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Printing.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:39:38</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.RichEdit.v18.2.Core.resources.dll">
+      <publishTime>02/17/2019 18:40:04</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Web.v18.2.resources.dll">
+      <publishTime>02/17/2019 18:37:15</publishTime>
+    </File>
+    <File Include="BlogDetay.aspx">
+      <publishTime>04/29/2020 13:10:17</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>05/19/2020 17:18:09</publishTime>
+    </File>
+    <File Include="Entity/Model1.edmx.diagram">
+      <publishTime>05/19/2020 18:01:54</publishTime>
+    </File>
+    <File Include="Hakkimda.aspx">
+      <publishTime>04/30/2020 13:46:01</publishTime>
+    </File>
+    <File Include="iletisim.aspx">
+      <publishTime>04/30/2020 14:17:46</publishTime>
+    </File>
+    <File Include="KategoriDetay.aspx">
+      <publishTime>05/14/2020 13:47:22</publishTime>
+    </File>
+    <File Include="Kullanici.Master">
+      <publishTime>04/30/2020 13:42:06</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>05/19/2020 18:32:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/19/2020 19:20:12</publishTime>
+    </File>
+    <File Include="web/about.html">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/contact.html">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/css/bootstrap.css">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/css/style.css">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/images/avatar.png">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/images/food.jpg">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/images/icon3.png">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/images/logo.jpg">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/images/man.jpg">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/images/more.png">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/images/post1.jpg">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/images/post2.jpg">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/images/post3.jpg">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/images/search.png">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/index.html">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/js/easing.js">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/js/jquery.min.js">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/js/move-top.js">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/single.html">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web/w3layouts-License.txt">
+      <publishTime>04/28/2020 10:14:50</publishTime>
+    </File>
+    <File Include="web2/css/style.css">
+      <publishTime>05/19/2020 17:41:38</publishTime>
+    </File>
+    <File Include="web2/images/b1.jpg">
+      <publishTime>05/19/2020 17:41:38</publishTime>
+    </File>
+    <File Include="web2/index.html">
+      <publishTime>05/19/2020 17:41:38</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
